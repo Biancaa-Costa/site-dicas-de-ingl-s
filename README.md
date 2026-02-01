@@ -10,7 +10,7 @@
     
 </head>
 <body>
-    <h1>Vocabulário de Viagem</h1>
+    <h1><b>Vocabulário de Viagem</b></h1>
     <h2>Expressões gerais para viagem</h2>
     <ul>
         <li>Hello-Olá</li>
@@ -25,13 +25,19 @@
         <!--comentário-->
         <h2> Frases para aeroporto em inglês</h2>
         <h3> Frases para o momento do Check-in</h3>
-    <p>1. I’d like to check in for my flight. (Gostaria de fazer o check-in para o meu voo.)</p>
+    <p><b>1. I’d like to check in for my flight. (Gostaria de fazer o check-in para o meu voo.)</b></p>
 
-    <p>2. Can I have a window seat, please? (Posso ficar com um assento na janela, por favor?) </p>
+    <p><i>2. Can I have a window seat, please? (Posso ficar com um assento na janela, por favor?) </i></p>
     <p>3. Can I see your passport now? (Posso ver seu passaporte agora?)  </p>
     <p>Sure, Here you are!( Claro, Aqui está!)</p>
     <h2>Frases para o despacho de bagagens</h2>
     <p>1. Do I need to pay for extra baggage? (Preciso pagar por bagagem extra?)  </p>
     <p>2. Can I carry this item in my hand luggage? (Posso levar este item na bagagem de mão?) </p>
     <p>3. This is my only checked bag. (Essa é minha única mala despachada.)  </p>
+    <style>
+        body{
+            background-color:lightpink;
+        }
+    </style>
 </body>
+</html>
